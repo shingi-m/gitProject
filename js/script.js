@@ -1,3 +1,6 @@
-const a = 100;
+const b = 'Hi There';
 const myFunc = ()=> {};
+
+
+
 
